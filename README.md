@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TinaDSZ
 - 👀 I’m interested in Reading
 - 🌱 I’m currently learning AGI
-- 💞️ I’m looking to collaborate on Solve Problems 
+- 💞️ I’m looking to collaborate on Solving Problems 
 - 📫 How to reach me by wechat
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
